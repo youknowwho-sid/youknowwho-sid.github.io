@@ -1,4 +1,4 @@
-Welcome to my GitHub repository for my personal website, accessible at siddhanthjagtap.github.io. This site serves as my digital portfolio, showcasing my journey as an aspiring software developer. Here, I highlight various projects I have undertaken in fields such as application development, data analysis, and machine learning.
+Welcome to my GitHub repository for my personal website, accessible at [Portfolio](https://siddhanthjagtap.github.io). This site serves as my digital portfolio, showcasing my journey as an aspiring software developer. Here, I highlight various projects I have undertaken in fields such as application development, data analysis, and machine learning.
 
 I've designed the site with an organized layout to make it easy for visitors to navigate through my work. Each project features detailed descriptions and links to their respective repositories, providing insights into my technical capabilities and problem-solving skills. I take pride in my proficiency with languages and frameworks like Java, Spring Boot, and React, and I am committed to creating efficient and user-friendly applications.
 
