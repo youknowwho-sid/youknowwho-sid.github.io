@@ -79,6 +79,15 @@
 	}
 
 /* Basic */
+	#dp {
+    width: 200px;          /* adjust size */
+    height: 200px;         /* make square for perfect circle */
+    border-radius: 50%;    /* makes it circular */
+    object-fit: cover;     /* keeps image from stretching */
+    border: 4px solid white; /* optional: adds a border */
+    display: block;
+    margin: 0 auto 20px;   /* center horizontally + spacing below */
+	}
 
 	@-ms-viewport {
 		width: device-width;
