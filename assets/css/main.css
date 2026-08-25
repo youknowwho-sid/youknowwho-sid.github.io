@@ -2411,6 +2411,7 @@
 			line-height: 5.5em;
 			margin: 0 0 2em 0;
 			width: 5.5em;
+			text-align: center;
 		}
 
 			.icon.major:before {
@@ -2441,6 +2442,7 @@
 				background: #e5cb95;
 				color: #ffffff;
 			}
+			
 
 /* Image */
 
